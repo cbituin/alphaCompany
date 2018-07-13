@@ -1,0 +1,8 @@
+body {
+    background-color: silver;
+}
+
+img.frontpage {
+    width: 100%;
+    display: block;
+}
