@@ -1,8 +1,9 @@
 body {
-    background-color: silver;
+    background-color: #000080;
 }
 
 img.frontpage {
     width: 100%;
     display: block;
+    vertical-align: middle;
 }
